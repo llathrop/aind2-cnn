@@ -25,6 +25,7 @@
 		KERAS_BACKEND=tensorflow python -c "from keras import backend"
 	```
 
+
 	For __Windows__:
 	```
 		conda env create -f requirements/aind-dog-windows.yml
